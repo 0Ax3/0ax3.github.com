@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Jianwen Sun
+
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Welcome to my personal website! I am Jianwen Sun, a third year PhD student working at Microassembly & robotics, CSEM Alpnach, at the same time affiliated to Institute of Neuroinformatics, University & ETH, Zurich.
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
