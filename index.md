@@ -1,46 +1,10 @@
 ---
 layout: page
-title: Jianwen Sun
-
 ---
 {% include JB/setup %}
 
-Welcome to my personal website! I am Jianwen Sun, a third year PhD student working at Microassembly & robotics, CSEM Alpnach, at the same time affiliated to Institute of Neuroinformatics, University & ETH, Zurich.
+Welcome to my personal website! 
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+I am Jianwen Sun, a third year PhD student working at [Microassembly & robotics](http://www.csem.ch/site/card.asp?nav=2468&sub=21819&title=Systems&activity=16951), [CSEM Alpnach](http://www.csem.ch/site/card.asp?nav=2577&sub=4679&title=Alpnach), at the same time affiliated to [Institute of Neuroinformatics](http://www.ini.uzh.ch/), [University](http://www.uzh.ch/index_en.html) and [ETH Zurich](https://www.ethz.ch/en.html).
 
 
