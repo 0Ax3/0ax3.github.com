@@ -2,7 +2,7 @@
 layout: page
 ---
 {% include JB/setup %}
-#### Quality Inspection for Precision Machinery Using Deep Belief Networks
+##### * Quality Inspection for Precision Machinery Using Deep Belief Networks
 
 #### Anomaly Detection in Time Varying Signals for the Quality Inspection of Electromotors
 
