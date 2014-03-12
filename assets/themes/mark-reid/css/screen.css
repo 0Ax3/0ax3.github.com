@@ -36,6 +36,13 @@ body {
   /*	margin-bottom: 20px;*/
 }
 
+.container > footer {
+  margin-top: 20px;
+}
+.container > footer p {
+  text-align: center; /* center align it with the container */
+}
+
 nav#navBarTop {
 	position: fixed;
 	top: 0;
