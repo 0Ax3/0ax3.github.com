@@ -27,6 +27,14 @@ body {
 	background-repeat: repeat-x; 
 }
 
+.navbar {
+	position: fixed;
+	width:100%;
+	font-size:16px;
+/*	height:100%;*/
+	opacity:0.55;
+  /*	margin-bottom: 20px;*/
+}
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
 img { -ms-interpolation-mode:bicubic; }
 
