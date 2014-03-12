@@ -19,7 +19,7 @@ layout: page
 - Master thesis & intern, Microassembly & Robotics, CSEM Alpnach, Switzerland, Mar. 2011 - Oct. 2011
 - Intern, AlpVision, Vevey Switzerland, Aug. 2010 - Feb. 2011
 
-#### Research Interest
+#### Research Interests
 * Deep learning theory, class imbalance problem
 * signal representation
 * quality inspection, etc.
