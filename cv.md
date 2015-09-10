@@ -16,6 +16,7 @@ layout: page
 
 #### Professional Experiences
 
+- Research Assistant, Microassembly & Robotics, CSEM Alpnach, Switzerland, Dec. 2011 - present
 - Master thesis & intern, Microassembly & Robotics, CSEM Alpnach, Switzerland, Mar. 2011 - Oct. 2011
 - Intern, AlpVision, Vevey Switzerland, Aug. 2010 - Feb. 2011
 
