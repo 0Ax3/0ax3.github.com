@@ -4,7 +4,14 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
+markdown: maruku
 
+maruku:
+    use_divs: true
+    use_tex: true
+    png_engine: blahtex
+    png_dir:  /images/latex/
+    png_url:  /images/latex/
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
