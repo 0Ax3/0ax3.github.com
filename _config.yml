@@ -3,7 +3,8 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+auto: true
+highlighter: rouge
 markdown: kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
