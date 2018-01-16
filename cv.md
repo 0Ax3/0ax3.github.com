@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 ---
 {% include JB/setup %}
-**Current Position**
+**Current Position**<a href="https://www.linkedin.com/in/jianwen-sun-60a07924/" target="_blank"><img src="/images/linkedin.png" width="26px" height="26px" alt="linkedin"/></a>
 * * * * *
 - <a href="https://www.linkedin.com/in/jianwen-sun-60a07924/" target="_blank">R&D Engineer</a>, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland
 
@@ -24,5 +24,5 @@ layout: default
 - Bachelor of Engineering in Optoelectronics Technology, Tianjin University, China, Sep. 2005 - Jul. 2009
 - Bachelor of Science in Optoelectronics Technology, Nankai University, China, Sep. 2005 - Jul. 2009
 
-**<a href="https://github.com/jsinfo/jsinfo.github.com/blob/master/_includes/JSn_CV.pdf" target="_blank">Curriculum Vitae</a>**
+<!--**<a href="https://github.com/jsinfo/jsinfo.github.com/blob/master/_includes/JSn_CV.pdf" target="_blank">Curriculum Vitae</a>**-->
 
