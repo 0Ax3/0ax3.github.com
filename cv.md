@@ -2,8 +2,7 @@
 layout: page
 ---
 {% include JB/setup %}
-
-<br></br>
+\newline
 **Current Position**
 - <a href="https://www.linkedin.com/in/jianwen-sun-60a07924/" target="_blank">R&D Engineer</a>, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland
 
