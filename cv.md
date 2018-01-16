@@ -7,7 +7,7 @@ layout: page
 - <a href="https://www.linkedin.com/in/jianwen-sun-60a07924/" target="_blank">R&D Engineer</a>, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland
 
 ##### Research Interests
-* Deep learning, time series modeling & prediciton, data representation, image recognition.
+* Deep learning theory, time series modeling & prediciton, class imbalance problem, data representation, image recognition.
 
 ##### Professional Experiences
 
