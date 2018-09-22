@@ -4,12 +4,13 @@ layout: page
 {% include JB/setup %}
 <br/>
 **Current Position**
-- <a href="https://www.linkedin.com/in/jianwen-sun-60a07924/" target="_blank">R&D Engineer</a>, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland
+- <a href="https://www.linkedin.com/in/jianwen-sun-60a07924/" target="_blank">Senior Machine Learning Engineer</a>, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland
 
 **Research Interests**
 * *Deep learning theory, time series modeling & prediciton, class imbalance problem, data representation, image recognition*
 
 **Professional Experiences**
+- **R&D Engineer**, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland, 03.2017 - 08.2018
 - **Research Assistant**, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland, 12.2011 - 02.2017
 - **Master thesis & intern**, Robotics & Automation, <a href="http://www.csem.ch" target="_blank">CSEM Alpnach</a>, Switzerland, 03.2011 - 10.2011
 - **Intern**, <a href="http://www.alpvision.com" target="_blank">AlpVision</a>, Vevey Switzerland, 08.2010 - 02.2011
